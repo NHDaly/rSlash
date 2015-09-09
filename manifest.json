@@ -1,0 +1,12 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "background.js" ]
+   },
+   "description": "Makes 'r/subreddit' links work like reddit magic.",
+   "manifest_version": 2,
+   "name": "rSlash",
+   "permissions": [ "webRequest", "webRequestBlocking", "\u003Call_urls>" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}
