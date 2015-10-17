@@ -3,7 +3,7 @@
       "persistent": true,
       "scripts": [ "background.js" ]
    },
-   "description": "Makes 'r/subreddit' links work like reddit magic.",
+   "description": "Makes 'r/subreddit' links work like reddit magic. Type r/subreddit into the address bar to navigate to http://reddit.com/r/subreddit.",
    "icons": { "16": "rSlash_logo_thin_16.png",
               "48": "rSlash_logo_thin_48.png",
              "128": "rSlash_logo_thin_128.png" },
